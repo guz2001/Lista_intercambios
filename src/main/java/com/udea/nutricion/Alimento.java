@@ -4,7 +4,6 @@ public class Alimento {
     private int id;
     private String  nombre;
     private double gramos;
-    private String nidadMedidas;
-    private double calorias;
-    private  double proteinas;
+    private String unidadMedidas;
+
 }
