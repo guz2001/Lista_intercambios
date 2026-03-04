@@ -5,5 +5,6 @@ public class Alimento {
     private String  nombre;
     private double gramos;
     private String unidadMedidas;
+    private ComposicionNutricional composicion;
 
 }
