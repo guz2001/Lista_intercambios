@@ -33,7 +33,7 @@ public class ComposicionNutricional {
     private double folatoMcg;         // Fol. mcg. EFD
     private double vitaminaB12Mcg;    // Vit. B12 mcg.
     private double vitaminaCMg;       // Vit. C. mg.
-
+    //creamos los getter y setter que brindan la infor
     public double getGrasasPoliG() {
         return grasasPoliG;
     }
